@@ -9,4 +9,4 @@ vti_nexttolasttimemodified:TW|18 Sep 2013 12:40:13 -0000
 vti_cacheddtm:TX|18 Sep 2013 12:06:21 -0000
 vti_filesize:IR|888
 vti_syncwith_68.178.246.6\:21/stanford:TX|18 Sep 2013 12:06:21 -0000
-vti_syncofs_68.178.246.6\:21/stanford:TW|18 Sep 2013 12:45:11 -0000
+vti_syncofs_68.178.246.6\:21/stanford:TW|18 Sep 2013 12:45:43 -0000
