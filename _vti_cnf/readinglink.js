@@ -8,3 +8,5 @@ vti_backlinkinfo:VX|32/main_copy(1).html 32/main-sep16.html
 vti_nexttolasttimemodified:TW|18 Sep 2013 12:40:13 -0000
 vti_cacheddtm:TX|18 Sep 2013 12:06:21 -0000
 vti_filesize:IR|888
+vti_syncwith_68.178.246.6\:21/stanford:TX|18 Sep 2013 12:06:21 -0000
+vti_syncofs_68.178.246.6\:21/stanford:TW|18 Sep 2013 12:45:11 -0000
